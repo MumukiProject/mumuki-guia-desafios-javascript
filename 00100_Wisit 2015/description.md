@@ -1,10 +1,9 @@
-Programar una función de nombre *esCapicua* recursivo que permita invertir un número. Ejemplo: Entrada: 123 Salida: 321
+Programar una función de nombre `esCapicua` de forma recursiva que permita saber si un numero es capicua o no.
+El primero en resolverlo obtendrá un **premio** especial!
 
-El primero en resolvero obtendrá un **premio** especial!
-
-Ej:
+Ejemplo:
 
 ```javascript
 esCapicua(121);
 ```
-Deberia retornar `true`;
+Deberia retornar `true`
