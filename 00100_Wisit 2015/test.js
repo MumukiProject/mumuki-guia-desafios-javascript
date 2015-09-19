@@ -6,6 +6,6 @@ describe("desafio wisit", function(){
     assert(esCapicua(1001));
   });
   it( "no es capicua 1213", function(){
-    assert(esCapicua(1213));
+    assert(!esCapicua(1213));
   });
 });
