@@ -1,4 +1,9 @@
 ---
 locale: es
+learning: false
+beta: false
 language: javascript
 original_id_format: '%05d'
+order:
+- 100
+- 386
