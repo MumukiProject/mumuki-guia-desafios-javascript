@@ -1,4 +1,4 @@
-Queremos implementar una función `particion`, que tome una lista de números y un pivote (un número), y devuelve tres listas:
+Queremos implementar en JavaScript una función `particion`, que tome una lista de números y un pivote (un número), y devuelve tres listas:
 
 * La de los números menores al pivote
 * La de los números iguales al pivote
