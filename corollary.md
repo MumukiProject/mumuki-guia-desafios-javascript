@@ -4,6 +4,4 @@ Ya escuchaste de Mumuki. Ya lo probaste. Y te encantó la idea, pero hay algunas
 * Podes encontrar mas información en la [página](http://mumuki.org) del proyecto.
 
 
-Gracias por participar del Wisit 2015!
-
 
