@@ -1,9 +1,10 @@
 ---
+name: Desafíos Javascript
 locale: es
-learning: false
+type: practice
 beta: false
 language: javascript
-original_id_format: '%05d'
+id_format: '%05d'
 order:
 - 100
 - 386
