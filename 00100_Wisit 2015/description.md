@@ -1,9 +1,12 @@
-Programar una función de nombre `esCapicua` de forma recursiva que permita saber si un numero es capicua o no.
-El primero en resolverlo obtendrá un **premio** especial!
+Escribí una función `esCapicua` de forma recursiva que permita saber si un numero es capicua o no.
 
 Ejemplo:
 
 ```javascript
-esCapicua(121);
+ム esCapicua(121);
+true
+
+ム esCapicua(102);
+false
 ```
-Deberia retornar `true`
+
