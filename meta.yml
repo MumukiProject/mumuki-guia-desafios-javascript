@@ -1,9 +1,9 @@
 ---
-name: Desafíos Javascript
+name: Práctica final
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: javascript
 id_format: '%05d'
 order:
