@@ -5,7 +5,7 @@ type: practice
 beta: false
 teacher_info: ''
 language: javascript
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 100
 - 386
